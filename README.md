@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://your-image-link-here" alt="Akshay Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Akshay! 👋</h1>
 
@@ -72,7 +70,7 @@ Multi-tenant VMS with RBAC, JWT, real-time email alerts, microservices, and audi
 ---
 
 ## 🌐 My Website
-🔗 Portfolio: *Add your portfolio URL here*
+🔗 Portfolio:[ *Add your portfolio URL here*](https://akshay-kokare-1w5yfv4.gamma.site/)
 
 ---
 
