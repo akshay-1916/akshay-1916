@@ -1,52 +1,98 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Akshay Kokare</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Angular | Hibernate</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## 🚀 About Me
+I am a passionate **Java Full Stack Developer** with strong knowledge of  
+**Object-Oriented Programming, Spring Boot, Angular, Hibernate**, and scalable backend systems.
 
-###
+I love building full-stack applications, solving real-world problems, and exploring **AI integration with Spring Boot**.  
+Quick learner with excellent teamwork, adaptability, and problem-solving abilities.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+## 🎓 Education
+**B.Tech in Computer Science**  
+DBATU University, Lonere  
+**CGPA:** 8.03 (Current)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### **Languages**
+- Java (OOP, Collections)  
+- Python  
+- PHP  
 
-###
+### **Frontend**
+- HTML, CSS, JavaScript  
+- Angular  
+
+### **Backend**
+- Spring Boot  
+- Hibernate  
+
+### **Databases & Tools**
+- MySQL  
+- Git & GitHub  
+- Postman  
+- VS Code, Eclipse  
+
+### **Soft Skills**
+- Team Collaboration  
+- Time Management  
+- Adaptability  
+- Quick Learning  
+
+---
+
+## 🔥 Projects
+
+### 🟦 **Farmer–Consumer Marketplace**  
+**Angular, Spring Boot, Hibernate**  
+- Built a full-stack platform with **Farmer, Consumer, and Admin dashboards**  
+- Secured REST APIs for authentication, product inventory, order processing, and cart management  
+- Angular-based **dynamic UI**, real-time product filtering, camera capture for product images, and animations  
+- Farmer dashboard to add/edit/delete products, manage inventory, view orders  
+
+---
+
+### 🟧 **Visitor Pass Management System**  
+**Spring Boot, Angular, RabbitMQ, MySQL**  
+- Multi-tenant architecture with microservices  
+- Real-time email alerts, visitor pass approvals, and audit logging  
+- JWT Authentication + Role-Based Access Control  
+- Automated workflow: registration → approval → check-in/out  
+
+---
+
+### 🟩 **Internship Projects – CodeAlpha (Remote)**  
+**May 2025 – June 2025**
+- Student Grade Tracker using Java + Spring Boot  
+- Stock trading simulation platform with real-time portfolio updates  
+
+---
+
+## 🏅 Certifications
+- **Oracle Fusion AI Agent Studio Foundations Associate (Rel 1)** – Oracle University  
+- **Object Oriented Programming (Java)** – Udemy  
+- **Certificate of Excellence** – Academic Topper (Rank 1), FY CSE 2024  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **akshayvkokare@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/akshay-kokare-351481289/  
+- 🧑‍💻 GitHub: https://github.com/akshay-1916  
+
+---
+
+## 💡 Fun Fact
+I love building **Spring Boot + Angular + AI/ML** powered full-stack systems!
+
+---
+
+## ⭐ Support
+If you like my work, consider giving a ⭐ to my repositories!
