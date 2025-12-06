@@ -1,0 +1,24 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: akshay-1916
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Upload snake SVG to GitHub Pages
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
