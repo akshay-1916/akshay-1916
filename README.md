@@ -92,6 +92,12 @@ DBATU University, Lonere
 ## 💡 Fun Fact
 I love building **Spring Boot + Angular + AI/ML** powered full-stack systems!
 
+
+
+# 🐍 Contribution Snake Game
+<p align="center">
+  <img src="https://github.com/akshay-1916/akshay-1916/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 ## ⭐ Support
