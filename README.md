@@ -96,9 +96,9 @@ I love building **Spring Boot + Angular + AI/ML** powered full-stack systems!
 
 # 🐍 Contribution Snake Game
 <p align="center">
-  <img src="https://github.com/akshay-1916/akshay-1916/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/akshay-1916/akshay-1916/output/snake.svg" alt="snake animation" />
 </p>
----
+
 
 ## ⭐ Support
 If you like my work, consider giving a ⭐ to my repositories!
