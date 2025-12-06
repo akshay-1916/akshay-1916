@@ -1,99 +1,89 @@
-<h1 align="center">Hi 👋, I'm Akshay Kokare</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Angular | Hibernate</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-image-link-here" alt="Akshay Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Akshay! 👋</h1>
+
+<p align="center">
+  <b>Java Full Stack Developer</b> | <b>Spring Boot</b> | <b>Angular</b> | <b>AI & ML Explorer</b><br><br>
+  🚀 Passionate about building scalable applications, exploring AI integration with Spring Boot, and crafting full-stack solutions.<br>
+  🎓 B.Tech Computer Science • DBATU Lonere (CGPA: 8.03)<br>
+  💡 Always learning, improving, and building smarter systems!
+</p>
 
 ---
 
-## 🚀 About Me
-I am a passionate **Java Full Stack Developer** with strong knowledge of  
-**Object-Oriented Programming, Spring Boot, Angular, Hibernate**, and scalable backend systems.
+## 🛠️ Technologies I Use
 
-I love building full-stack applications, solving real-world problems, and exploring **AI integration with Spring Boot**.  
-Quick learner with excellent teamwork, adaptability, and problem-solving abilities.
-
----
-
-## 🎓 Education
-**B.Tech in Computer Science**  
-DBATU University, Lonere  
-**CGPA:** 8.03 (Current)
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-- Java (OOP, Collections)  
-- Python  
-- PHP  
-
-### **Frontend**
-- HTML, CSS, JavaScript  
-- Angular  
-
-### **Backend**
-- Spring Boot  
-- Hibernate  
-
-### **Databases & Tools**
-- MySQL  
-- Git & GitHub  
-- Postman  
-- VS Code, Eclipse  
-
-### **Soft Skills**
-- Team Collaboration  
-- Time Management  
-- Adaptability  
-- Quick Learning  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 🔥 Projects
+## 📊 GitHub Stats
 
-### 🟦 **Farmer–Consumer Marketplace**  
-**Angular, Spring Boot, Hibernate**  
-- Built a full-stack platform with **Farmer, Consumer, and Admin dashboards**  
-- Secured REST APIs for authentication, product inventory, order processing, and cart management  
-- Angular-based **dynamic UI**, real-time product filtering, camera capture for product images, and animations  
-- Farmer dashboard to add/edit/delete products, manage inventory, view orders  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshay-1916&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-1916&theme=tokyonight" />
+</p>
 
----
-
-### 🟧 **Visitor Pass Management System**  
-**Spring Boot, Angular, RabbitMQ, MySQL**  
-- Multi-tenant architecture with microservices  
-- Real-time email alerts, visitor pass approvals, and audit logging  
-- JWT Authentication + Role-Based Access Control  
-- Automated workflow: registration → approval → check-in/out  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-1916&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🟩 **Internship Projects – CodeAlpha (Remote)**  
-**May 2025 – June 2025**
-- Student Grade Tracker using Java + Spring Boot  
-- Stock trading simulation platform with real-time portfolio updates  
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshay-1916/akshay-1916/output/snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-## 🏅 Certifications
-- **Oracle Fusion AI Agent Studio Foundations Associate (Rel 1)** – Oracle University  
-- **Object Oriented Programming (Java)** – Udemy  
-- **Certificate of Excellence** – Academic Topper (Rank 1), FY CSE 2024  
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-1916&theme=react-dark" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Featured Projects
+
+### 🟦 Farmer–Consumer Marketplace  
+**Angular | Spring Boot | Hibernate**  
+A complete full-stack marketplace with authentication, inventory management, product filtering, and dashboards.
+
+### 🟧 Visitor Pass Management System  
+**Spring Boot | Angular | RabbitMQ | MySQL**  
+Multi-tenant VMS with RBAC, JWT, real-time email alerts, microservices, and audit logging.
+
+---
+
+## 🌐 My Website
+🔗 Portfolio: *Add your portfolio URL here*
+
+---
+
+## 📞 Contact
+
 - 📧 Email: **akshayvkokare@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/akshay-kokare-351481289/  
-- 🧑‍💻 GitHub: https://github.com/akshay-1916  
+- 🧑‍💻 GitHub: https://github.com/akshay-1916   
 
 ---
 
-## 💡 Fun Fact
-I love building **Spring Boot + Angular + AI/ML** powered full-stack systems!
-
-
-
-
-## ⭐ Support
-If you like my work, consider giving a ⭐ to my repositories!
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
