@@ -41,13 +41,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-1916&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshay-1916/akshay-1916/output/snake.svg" alt="snake animation" />
-</p>
 
 ---
 
