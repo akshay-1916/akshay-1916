@@ -51,7 +51,7 @@ Multi-tenant VMS with RBAC, JWT, real-time email alerts, microservices, and audi
 ---
 
 ## 🌐 My Website
-🔗 Portfolio:[ *Add your portfolio URL here*](https://akshay-kokare-1w5yfv4.gamma.site/)
+🔗 Portfolio:[ *akshaykokare*](https://akshaykokare.vercel.app/)
 
 ---
 
