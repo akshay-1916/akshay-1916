@@ -30,19 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshay-1916&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-1916&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-1916&layout=compact&theme=tokyonight" />
-</p>
-
-
----
 
 ## 📈 Contribution Activity
 <p align="center">
@@ -71,8 +58,7 @@ Multi-tenant VMS with RBAC, JWT, real-time email alerts, microservices, and audi
 ## 📞 Contact
 
 - 📧 Email: **akshayvkokare@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/akshay-kokare-351481289/  
-- 🧑‍💻 GitHub: https://github.com/akshay-1916   
+- 💼 LinkedIn: https://www.linkedin.com/in/akshay-kokare-351481289/    
 
 ---
 
