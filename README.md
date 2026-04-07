@@ -40,7 +40,7 @@
 
 ## 🔥 Featured Projects
 ### 🟧HICAP – Health Intelligence & Citizan Aleart Platform
-** Spring Boot, Angular,Spring AI, PostgreSQL ** 
+**Spring Boot, Angular,Spring AI, PostgreSQL** 
 
 ### 🟦 Farmer–Consumer Marketplace  
 **Angular | Spring Boot | Hibernate**  
