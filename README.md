@@ -84,12 +84,24 @@ Java Full Stack Developer with strong expertise in **Core Java, Spring Boot, Hib
 ### 📊 Git Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-1916&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-1916&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+  <!-- 1. WORKING: GitHub Streak (Matches your theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-1916&theme=tokyonight&border_radius=10" width="48%" />
+  <!-- 2. WORKING: Profile Summary (Matches your theme) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-1916&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-1916&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <!-- 3. NEW STABLE MIRROR: Top Languages (Using a high-availability server) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=akshay-1916&layout=compact&theme=tokyonight&border_radius=10&hide=html,css,scss" width="48%" />
+  <!-- 4. NEW STABLE MIRROR: Main Stats -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=akshay-1916&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <!-- 5. ULTRA STABLE: Shield-based Skills Inventory (Never breaks) -->
+  <img src="https://img.shields.io/badge/Total%20Repos-17-0078D4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Main%20Language-Java-ED8B00?style=for-the-badge&logo=java" />
+  <img src="https://komarev.com/ghpvc/?username=akshay-1916&color=0078d4&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -109,11 +121,13 @@ Java Full Stack Developer with strong expertise in **Core Java, Spring Boot, Hib
   <img src="https://img.shields.io/badge/-Solapur,%20India-lightgrey?style=flat&logo=google-maps&logoColor=red"/>
 </p>
 
+
+
+<!-- Snake Animation: Requires Github Action to generate -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/akshay-1916/akshay-1916/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-<!-- Snake animation for visual density -->
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
