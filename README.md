@@ -125,7 +125,7 @@ Java Full Stack Developer with strong expertise in **Core Java, Spring Boot, Hib
 
 <!-- Snake Animation: Requires Github Action to generate -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshay-1916/akshay-1916/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/akshay-1916/akshay-1916/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
